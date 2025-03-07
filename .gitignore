@@ -19,3 +19,6 @@ passwords.txt      # 排除密码记录文件
 # 系统文件
 .DS_Store
 Thumbs.db
+"build/" 
+"dist/" 
+"passwords.txt" 
